@@ -32,6 +32,7 @@ $ ampy ls
 
 ```bash
 $ pip3 install thonny
+$ thonny
 ```
 
 In case you confront with `ModuleNotFoundError: No module named '_tkinter'`, See [this](https://stackoverflow.com/questions/26357567/cannot-import-tkinter-after-installing-python-3-with-pyenv#26358646):
